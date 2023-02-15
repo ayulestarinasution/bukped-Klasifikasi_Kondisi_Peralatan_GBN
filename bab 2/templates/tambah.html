@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords"
+        content="wrappixel, admin dashboard, html css dashboard, web dashboard, bootstrap 5 admin, bootstrap 5, css3 dashboard, bootstrap 5 dashboard, Ample lite admin bootstrap 5 dashboard, frontend, responsive bootstrap 5 admin template, Ample admin lite dashboard bootstrap 5 dashboard template">
+    <meta name="description"
+        content="Ample Admin Lite is powerful and clean admin dashboard template, inpired from Bootstrap Framework">
+    <meta name="robots" content="noindex,nofollow">
+    <title>Airport Electronic Facilities Account</title>
+    <link rel="canonical" href="https://www.wrappixel.com/templates/ample-admin-lite/" />
+
+    <!-- Custom CSS -->
+    <link href="/static/plugins/bower_components/chartist/dist/chartist.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/static/plugins/bower_components/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.css">
+    <!-- Custom CSS -->
+    <link href="/static/css/style.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- ============================================================== -->
+    <!-- Preloader - style you can find in spinners.css -->
+    <!-- ============================================================== -->
+   
+    <!-- ============================================================== -->
+    <!-- Main wrapper - style you can find in pages.scss -->
+    <!-- ============================================================== -->
+    <div id="main-wrapper" data-layout="vertical" data-navbarbg="skin5" data-sidebartype="full"
+        data-sidebar-position="absolute" data-header-position="absolute" data-boxed-layout="full">
+        
+        <!-- ============================================================== -->
+        <!-- Topbar header - style you can find in pages.scss -->
+        <!-- ============================================================== -->
+      
+        <!-- ============================================================== -->
+        <!-- End Topbar header -->
+        <!-- ============================================================== -->
+        <!-- ============================================================== -->
+        <!-- Left Sidebar - style you can find in sidebar.scss  -->
+        <!-- ============================================================== -->
+        <aside class="left-sidebar" data-sidebarbg="skin6" style="margin-top: 0%; background-color: rgb(158, 160, 163);">
+            <!-- Sidebar scroll-->
+            <div class="scroll-sidebar">
+                <!-- Sidebar navigation-->
+                <nav class="sidebar-nav" >
+                    <ul id="sidebarnav" style="background-color:  rgb(76, 77, 78);">
+                        <span class="logo-text">
+                            <!-- dark Logo text -->
+                            <i class="fas fa-user-circle" style="margin-left: 35%; margin-top: -11%; font-size: 52px; color: #ffff"></i>
+              
+                        </span>
+                        <br>
+                       <h6 style="margin-left:22%;margin-top: 8%; color:rgb(247, 246, 250);"> {{ session['name'] }}</h6>
+                        <!-- User Profile-->
+                        <li class="sidebar-item pt-2">
+                            <a class="sidebar-link waves-effect waves-dark sidebar-link" href="/dashboard"
+                                aria-expanded="false" style="color: rgb(219, 219, 219);">
+                                <i class="fas fa-home" aria-hidden="true"  style="color: rgb(219, 219, 219);"></i>
+                                <span class="hide-menu">Klasifikasi</span>
+                            </a>
+                        </li>
+                        {% if session['category'] == 'petugas' or  session['category'] == 'admin'  %}
+                        <li class="sidebar-item">
+                            <a class="sidebar-link waves-effect waves-dark sidebar-link" href="/analis"
+                                aria-expanded="false" style="color: rgb(219, 219, 219);">
+                                <i class="fa fa-user" aria-hidden="true" style="color: rgb(219, 219, 219);"></i>
+                                <span class="hide-menu" >P Analis</span>
+                            </a>
+                        </li>
+                        {% endif %}
+                        <li class="sidebar-item">
+                            <a class="sidebar-link waves-effect waves-dark sidebar-link" href="/dataset"
+                                aria-expanded="false" style="color: rgb(219, 219, 219);">
+                                <i class="fa fa-table" aria-hidden="true" style="color: rgb(219, 219, 219);"></i>
+                                <span class="hide-menu">Dataset</span>
+                            </a>
+                        </li>
+                        <li class="sidebar-item">
+                            <a class="sidebar-link waves-effect waves-dark sidebar-link" href="/petugas"
+                                aria-expanded="false" style="color: rgb(219, 219, 219);">
+                                <i class="fa fa-table" aria-hidden="true" style="color: rgb(219, 219, 219);"></i>
+                                <span class="hide-menu">Petugas</span>
+                            </a>
+                        </li>
+                        <li class="sidebar-item">
+                            <a class="sidebar-link waves-effect waves-dark sidebar-link" href="/tambah"
+                                aria-expanded="false" style="color: rgb(219, 219, 219);">
+                                <i class="fa fa-table" aria-hidden="true" style="color: rgb(219, 219, 219);"></i>
+                                <span class="hide-menu">Tambah Data</span>
+                            </a>
+                        </li>
+                        
+                        <li class="sidebar-item">
+                            <a class="sidebar-link waves-effect waves-dark sidebar-link" href="/view_data"
+                                aria-expanded="false" style="color: rgb(219, 219, 219);">
+                                <i class="fa fa-table" aria-hidden="true" style="color: rgb(219, 219, 219);"></i>
+                                <span class="hide-menu">Dataset</span>
+                            </a>
+                        </li>
+                        {% if session['category'] == 'petugas' or  session['category'] == 'admin'  %}
+                        
+                        
+                        {% endif %}
+                        <li class="text-center p-20 upgrade-btn">
+                            <a href="/logout"
+                                class="btn d-grid btn-danger text-white" target="_blank">
+                                Logout</a>
+                        </li>
+                    </ul>
+
+                </nav>
+                <!-- End Sidebar navigation -->
+            </div>
+            <!-- End Sidebar scroll-->
+        </aside>
+        <!-- ============================================================== -->
+        <!-- End Left Sidebar - style you can find in sidebar.scss  -->
+        <!-- ============================================================== -->
+        <!-- ============================================================== -->
+        <!-- Page wrapper  -->
+        <!-- ============================================================== -->
+        <div class="page-wrapper">
+            <!-- ============================================================== -->
+            <!-- Bread crumb and right sidebar toggle -->
+            <!-- ============================================================== -->
+            <div class="page-breadcrumb bg-white">
+                <div class="row align-items-center">
+                    <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
+                        <h4 class="page-title">Dashboard</h4>
+                    </div>
+                    <div class="col-lg-9 col-sm-8 col-md-8 col-xs-12">
+                        <div class="d-md-flex">
+                            {% if session['category'] == 'admin' %}
+                            <ol class="breadcrumb ms-auto">
+                                <li><a href="#" class="fw-normal" style="font-size: 18px;">Admin's Account</a></li>
+                            </ol>
+                            {% endif %}
+
+                            {% if session['category'] == 'petugas' %}
+                            <ol class="breadcrumb ms-auto">
+                                 
+                                <li><a href="#" class="fw-normal" style="color: rgb(83, 12, 247);">Petugas's Account</a></li>
+                            </ol>
+                            {% endif %}
+
+                            {% if session['category'] == 'analis' %}
+                            <ol class="breadcrumb ms-auto">
+                                <li><a href="#" class="fw-normal" style="font-size: 18px;">P Analis Account</a></li>
+                            </ol>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+                <!-- /.col-lg-12 -->
+            </div>
+            <!-- ============================================================== -->
+            <!-- End Bread crumb and right sidebar toggle -->
+            <!-- ============================================================== -->
+            <!-- ============================================================== -->
+            <!-- Container fluid  -->
+            <!-- ============================================================== -->
+            <div class="container-fluid">
+                <!-- ============================================================== -->
+                <!-- Three charts -->
+                <!-- ============================================================== -->
+              
+                <!-- ============================================================== -->
+                <!-- PRODUCTS YEARLY SALES -->
+                <!-- ============================================================== -->
+               
+                <!-- ============================================================== -->
+                <!-- RECENT SALES -->
+                <!-- ============================================================== -->
+              
+                <!-- ============================================================== -->
+                <!-- Recent Comments -->
+              
+                <!-- ============================================================== -->
+               
+                     
+
+                    </tbody>
+                  </table>
+                <div class="row">
+                    <!-- .col -->
+                    <div class="col-md-12 col-lg-8 col-sm-12">
+                        <div class="card white-box p-0">
+                            <div class="card-body">
+                                <h3 class="box-title mb-0">Input tests</h3>
+                            </div>
+                           <div style="padding: 3%;">
+                            <form action="/tambah" method="POST">
+                              <div class="row">
+                                         
+                                <div class="form-group">
+                                    <input type="text" class="form-control" placeholder="nama_peralatan" style="width: 50%;" name="nama_peralatan" required>
+                                  </div>
+
+                                <div class="col-md-6">
+                                  <div class="form-group">
+                                   <div class="col-sm-10">
+                                    <select name="jenis_alat" class="form-control select2" style="width: 50%;">
+                                    <option value="">Enter Jenis ALAT</option>
+                                          <option value="">xray</option>
+                                          <option value="">xray s</option> 
+                                          <option value="">Body Scanner</option>
+                                          <option value="">Explosive Detector</option> 
+                                          <option value="">WTMD </option>
+                                          <option value="">HHMD</option> 
+                                          <option value="">FIDS</option>
+                                          <option value="">FIDS R </option> 
+                                          <option value="">FIDS A </option>
+                                          <option value="">CCTV S</option> 
+                                          <option value="">CCTV H</option>
+                                          <option value="">Camera</option> 
+                                          <option value="">Camera H</option>
+                                          <option value="">Camera V </option> 
+                                          <option value="">Camera HW</option>
+                                          <option value="">Display</option> 
+                                          <option value="">Public Address System (PAS)</option>
+                                          <option value="">Access Control</option> 
+                                          <option value="">Master clock</option>
+                                          <option value="">PABX</option> 
+                                          <option value="">Fire Alarm System</option>
+                                          </select>
+
+                                          <div class="col-md-6">
+                                            <div class="form-group">
+                                             <div class="col-sm-10">
+                                              <select name="merk" class="form-control select2" style="width: 50%;">
+                                              <option value="">Enter Merk</option>
+                                              <option value="">Rapiscan</option>
+                                              <option value="">smith</option>
+                                              <option value="">L3</option>
+                                              <option value="">CEIA</option>
+                                              <option value="">Garret</option>
+                                              <option value="">Krisbow </option>
+                                              <option value="">DELL</option>
+                                              <option value="">Raspberry/LG </option>
+                                              <option value="">Alaska F1/LG</option>
+                                              <option value="">Intel NUC/LG </option>
+                                              <option value="">Supermicro</option>
+                                              <option value="">CEIA</option>
+                                              <option value="">Supermicro</option>
+                                              <option value="">HUAWEI</option>
+                                              <option value="">Sony</option>
+                                              <option value="">Vivotek</option>
+                                              <option value="">TOA</option>
+                                              <option value="">Honeywell</option>
+                                              <option value="">Mobatime</option>
+                                              <option value="">Alcatel Lucent</option>
+                                              <option value="">DAHUA</option>
+                                              </select>
+                                              
+                                              
+                                          <div class="col-md-6">
+                                            <div class="form-group">
+                                             <div class="col-sm-10">
+                                              <select name="buatan" class="form-control select2" style="width: 50%;">
+                                              <option value="">Enter Buatan</option>
+                                              <option value="">Malaysia</option>
+                                              <option value="">Amerika</option>
+                                              <option value="">Eropa</option>
+                                              <option value="">Italy</option>
+                                              <option value="">USA</option>
+                                              <option value="">Indonesia</option>
+                                              <option value="">UK/Korsel</option>
+                                              <option value="">China</option>
+                                              <option value="">Jepang</option>
+                                              <option value="">Switzerland</option>
+                                              </select>
+                                          
+                                  <div class="form-group">
+                                    <input type="number" class="form-control" placeholder="tahun_buatan" style="width: 50%;" name="tahun_buatan" required>
+                                  </div>
+                                  <div class="form-group">
+                                    <input type="number" class="form-control" placeholder="kategori" style="width: 50%;" name="kategori" required>
+                                  </div>
+                                  <div class="form-group">
+                                    <input type="number" class="form-control" placeholder="kondisi" style="width: 50%;" name="kondisi" required>
+                                  </div>
+                                  <div class="form-group">
+                                    <input type="number" class="form-control" placeholder="sertifikasi" style="width: 50%;" name="sertifikasi" required>
+                                  </div>
+                                  <div class="form-group">
+                                    <input type="text" class="form-control" placeholder="keterangan" style="width: 50%;" name="keterangan" required>
+                                  </div>
+                                  
+                                 
+                                 <input type="text" value="{{ session['name'] }}" class="form-control" placeholder="name" style="width: 50%; visibility: hidden;" name="name">
+                                 <input type="text" value="{{ session['city'] }}" class="form-control" placeholder="city" style="width: 50%; visibility: hidden;" name="city">
+                                 <input type="text" value="{{ session['phoneno'] }}" class="form-control" placeholder="city" style="width: 50%; visibility: hidden;" name="phoneno">
+                                 <input type="text" value="{{ session['email'] }}" class="form-control" placeholder="city" style="width: 50%; visibility: hidden;" name="email">
+                                <br>
+                               
+                                <button type="submit" class="btn btn-primary" style="margin-top: -30%;">Tambah</button>
+                              </form>
+                           </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-4 col-md-12 col-sm-12">
+                        <div class="card white-box p-0">
+                            <div class="card-heading">
+                                <h3 class="box-title mb-0">Online Petugas</h3>
+                            </div>
+                          
+                            <div class="card-body">
+                                <ul class="chatonline">
+                                    {% for row in petugas %}
+                                    <li>
+                                        <div class="call-chat">
+                                            <a href="tel://{{row.phone}}">
+                                                <button class="btn btn-success text-white btn-circle btn" type="button">
+                                                    <i class="fas fa-phone"></i></i>
+                                                </button></a>
+                                           <a  href="mailto:{{row.email}}">
+                                            <button class="btn btn-info btn-circle btn" type="button">
+                                                <i class="far fa-comments text-white"></i>
+                                            </button>
+                                        </a>
+                                        </div>
+                                        <a href="javascript:void(0)" class="d-flex align-items-center"><img
+                                                src="static/images/doctor.jpg" alt="user-img" class="img-circle">
+                                            <div class="ms-2">
+                                                <span class="text-dark">{{row.name}}<small
+                                                        class="d-block text-success d-block">online</small></span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    {% endfor  %}
+                                </ul>
+                            </div>
+                            <p> Kategori	<br>				
+                                Kategori 1. Kerusakan yang mengakibatkan operasi terputus	<br>			
+                                Kategori 2. Kerusakan yang tidak mengakibatkan operasi terputus	<br>			
+                                Kategori 3. Kerusakan yang terjadi pada peralatan pendukung	<br>			
+                            </p>
+                            
+                        </div>
+                    </div>
+                    <!-- /.col -->
+                </div>
+            </div>
+            <!-- ============================================================== -->
+            <!-- End Container fluid  -->
+            <!-- ============================================================== -->
+            <!-- ============================================================== -->
+            <!-- footer -->
+            <!-- ============================================================== -->
+            <footer class="footer text-center"> 2022 © Elektronik prediction by <a
+                href="#">AYU LESTARI NASUTION</a>
+            </footer>
+            <!-- ============================================================== -->
+            <!-- End footer -->
+            <!-- ============================================================== -->
+        </div>
+        <!-- ============================================================== -->
+        <!-- End Page wrapper  -->
+        <!-- ============================================================== -->
+    </div>
+    <!-- ============================================================== -->
+    <!-- End Wrapper -->
+    <!-- ============================================================== -->
+    <!-- ============================================================== -->
+    <!-- All Jquery -->
+    <!-- ============================================================== -->
+    <script src="static/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+    <!-- Bootstrap tether Core JavaScript -->
+    <script src="static/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="static/js/app-style-switcher.js"></script>
+    <script src="static/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js"></script>
+    <!--Wave Effects -->
+    <script src="static/js/waves.js"></script>
+    <!--Menu sidebar -->
+    <script src="static/js/sidebarmenu.js"></script>
+    <!--Custom JavaScript -->
+    <script src="static/js/custom.js"></script>
+    <!--This page JavaScript -->
+    <!--chartis chart-->
+    <script src="static/plugins/bower_components/chartist/dist/chartist.min.js"></script>
+    <script src="static/plugins/bower_components/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.min.js"></script>
+    <script src="static/js/pages/dashboards/dashboard1.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,610 @@
+JML,NAMA_PERALATAN,Jenis_Alat,MEREK,TIPE,BUATAN,TAHUN_PEMBUATAN,KATEGORI_KERUSAKAN,KONDISI ,Sertifikasi ,Keterangan
+1,X-Ray Cabin,X-Ray,Rapiscan,620XR,Malaysia,2012,3,53,1,Rusak
+2,X-Ray Bagasi Line 1,X-Ray,Smith,HS 100100T-2is,Malaysia,2016,4,80,1,Normal
+3,X-Ray Bagasi Line 2,X-Ray,Smith,HS 100100T-2is,Malaysia,2016,2,80,1,Perbaikan
+4,X-Ray Cabin Line 1,X-Ray,Rapiscan,620DV,Malaysia,2017,4,87,1,Normal
+5,X-Ray Cabin Line 2,X-Ray,Rapiscan,620DV,Malaysia,2017,4,87,1,Normal
+6,X-Ray Cabin Line 3,X-Ray,Rapiscan,620DV,Malaysia,2017,2,87,1,Normal
+7,X-Ray Bagasi Line 1,X-Ray,Rapiscan,628DV,Malaysia,2019,1,100,2,Normal
+8,X-Ray Bagasi Line 2,X-Ray,Smith,HS 100100T-2is,Malaysia,2016,2,80,1,Perbaikan
+9,X-Ray Cabin Line 1,X-Ray,Smith,HI Scan 6040-2is,Malaysia,2016,1,80,1,Perbaikan
+10,X-Ray Cabin Line 2,X-Ray,Smith,HI Scan 6040-2is,Malaysia,2011,3,47,1,Rusak
+11,X-Ray Cabin,X-Ray,Rapiscan,620DV,Malaysia,2019,1,100,2,Perbaikan
+1,Body Scanner,Body Scanner,L3,PV-2 PROVISION.2.E.U,Amerika,2016,2,80,1,Normal
+1,Explosive Detector,Explosive Detector,,SABRE 5000,EROPA,2017,2,60,1,Perbaikan
+1,WTMD Line 1,WTMD ,CEIA,Hi-Pe,Italy,2015,2,73,1,Perbaikan
+2,WTMD Line 2,WTMD ,CEIA,Hi-Pe,Italy,2017,4,87,1,Normal
+3,WTMD Line 3,WTMD ,CEIA,Hi-Pe,Italy,2013,1,60,1,Normal
+4,WTMD Line 1,WTMD ,CEIA,Hi-Pe,Italy,2012,3,53,1,Rusak
+5,WTMD Karyawan Internasional,WTMD ,CEIA,Hi-Pe,Italy,2016,4,80,1,Normal
+6,WTMD Karyawan Domestik,WTMD ,CEIA,Hi-Pe,Italy,2015,2,73,1,Perbaikan
+1,HHMD 001,HHMD ,Garret,1165180,USA,2012,3,0,1,Rusak
+2,HHMD 002,HHMD ,Garret,1165170,USA,2012,3,0,1,Rusak
+3,HHMD 003,HHMD ,Krisbow,,Indonesia,2012,3,0,1,Rusak
+4,HHMD 004,HHMD ,Krisbow,,Indonesia,2012,3,0,1,Perbaikan
+5,HHMD 005,HHMD ,Krisbow,,Indonesia,2012,3,0,1,Rusak
+6,HHMD 006,HHMD ,Krisbow,,Indonesia,2012,3,0,1,Rusak
+7,HHMD 007,HHMD ,CEIA,PD140E,Italy,2016,3,40,1,Normal
+8,HHMD 008,HHMD ,CEIA,PD140E,Italy,2016,3,40,1,Perbaikan
+9,HHMD 009,HHMD ,CEIA,PD140E,Italy,2016,3,40,1,Perbaikan
+10,HHMD 010,HHMD ,CEIA,PD140E,Italy,2016,3,40,1,Perbaikan
+11,HHMD 011,HHMD ,CEIA,PD140E,Italy,2016,3,40,1,Rusak
+12,HHMD 012,HHMD ,CEIA,PD140E,Italy,2016,3,40,1,Perbaikan
+13,HHMD 013,HHMD ,CEIA,PD140E,Italy,2016,3,40,1,Normal
+14,HHMD 014,HHMD ,CEIA,PD140E,Italy,2016,3,40,1,Perbaikan
+15,HHMD 015,HHMD ,CEIA,PD140E,Italy,2016,3,40,1,Normal
+16,HHMD 016,HHMD ,CEIA,PD140E,Italy,2016,3,40,1,Perbaikan
+17,HHMD 017,HHMD ,CEIA,PD140E,Italy,2016,3,40,1,Perbaikan
+18,HHMD 018,HHMD ,CEIA,PD140E,Italy,2016,3,40,1,Perbaikan
+1,PABX,PABX,Siemens,Hizcome 100E,,1999,3,0,1,Rusak
+1,FIDS SERVER01,FIDS SERVER,Dell,,USA,2016,4,80,1,Rusak
+2,FIDS SERVER02,FIDS SERVER,Dell,,USA,2016,4,80,1,Normal
+1,FIDS 001,FIDS CLIENT,Raspberry/LG,,UK/Korsel,2016,3,40,1,Normal
+2,FIDS 002,FIDS CLIENT,Raspberry/LG,,UK/Korsel,2016,3,40,1,Perbaikan
+3,FIDS 003,FIDS CLIENT,Raspberry/LG,,UK/Korsel,2016,3,40,1,Rusak
+4,FIDS 004,FIDS CLIENT,Alaska F1/LG,,UK/Korsel,2016,3,40,1,Perbaikan
+5,FIDS 005,FIDS CLIENT,Alaska F1/LG,,UK/Korsel,2016,3,40,1,Normal
+6,FIDS 006,FIDS CLIENT,Alaska F1/LG,,UK/Korsel,2016,3,40,1,Normal
+7,FIDS 007,FIDS CLIENT,Raspberry/LG,,UK/Korsel,2016,3,40,1,Rusak
+8,FIDS 008,FIDS CLIENT,Raspberry/LG,,UK/Korsel,2016,3,40,1,Normal
+9,FIDS 009,FIDS CLIENT,Alaska F1/LG,,UK/Korsel,2016,3,40,1,Rusak
+10,FIDS 010,FIDS CLIENT,Alaska F1/LG,,UK/Korsel,2016,3,40,1,Rusak
+11,FIDS 011,FIDS CLIENT,Intel NUC/LG,,UK/Korsel,2015,3,20,1,Rusak
+12,FIDS 012,FIDS CLIENT,Alaska F1/LG,,UK/Korsel,2016,3,40,1,Normal
+13,FIDS 013,FIDS CLIENT,Alaska F1/LG,,UK/Korsel,2016,3,40,1,Perbaikan
+14,FIDS 014,FIDS CLIENT,Raspberry/LG,,UK/Korsel,2016,3,40,1,Normal
+15,FIDS 015,FIDS CLIENT,Raspberry/LG,,UK/Korsel,2016,3,40,1,Rusak
+16,FIDS 016,FIDS CLIENT,Intel NUC/LG,,UK/Korsel,2017,2,60,1,Normal
+17,FIDS 017,FIDS CLIENT,Intel NUC/LG,,UK/Korsel,2017,3,60,1,Normal
+18,FIDS 018,FIDS CLIENT,Raspberry/LG,,UK/Korsel,2016,3,40,1,Perbaikan
+19,FIDS 019,FIDS CLIENT,Raspberry/LG,,UK/Korsel,2016,3,40,1,Rusak
+20,FIDS 020,FIDS CLIENT,Raspberry/LG,,UK/Korsel,2016,3,40,1,Normal
+21,FIDS 021,FIDS CLIENT,Raspberry/LG,,UK/Korsel,2016,3,40,1,Normal
+22,FIDS 022,FIDS CLIENT,Raspberry/LG,,UK/Korsel,2019,4,100,1,Rusak
+23,FIDS 023,FIDS CLIENT,Raspberry/LG,,UK/Korsel,2017,2,60,1,Normal
+24,FIDS 024,FIDS CLIENT,Raspberry/LG,,UK/Korsel,2016,3,40,1,Normal
+25,FIDS 025,FIDS CLIENT,Intel NUC/LG,,UK/Korsel,2017,2,60,1,Perbaikan
+26,FIDS 026,FIDS CLIENT,Intel NUC/LG,,UK/Korsel,2017,2,60,1,Rusak
+27,FIDS 027,FIDS CLIENT,Intel NUC/LG,,UK/Korsel,2017,2,60,1,Normal
+28,FIDS 028,FIDS CLIENT,Alaska F1/LG,,UK/Korsel,2016,3,40,1,Normal
+29,FIDS 029,FIDS CLIENT,Intel NUC/LG,,UK/Korsel,2017,1,60,1,Normal
+30,FIDS 030,FIDS CLIENT,Alaska F1/LG,,UK/Korsel,2016,3,40,1,Normal
+31,FIDS 031,FIDS CLIENT,Intel NUC/LG,,UK/Korsel,2017,2,60,1,Normal
+32,FIDS 032,FIDS CLIENT,Intel NUC/LG,,UK/Korsel,2018,1,80,1,Normal
+33,FIDS 033,FIDS CLIENT,Alaska F1/LG,,UK/Korsel,2016,1,40,1,Perbaikan
+1,CCTV SERVER01,CCTV SERVER,Supermicro,,USA,2016,4,80,1,Normal
+2,CCTV SERVER02,CCTV SERVER,Supermicro,,USA,2016,4,80,1,Normal
+3,CCTV SERVER APPRON,CCTV SERVER,HP,Tower,USA,2017,4,87,1,Perbaikan
+4,CCTV SERVER HUAWEI,CCTV SERVER,HUAWEI,,CINA,2020,4,100,1,Normal
+1,PC CLIENT,PC,Dell,Optiplex 7020,USA,2016,1,40,1,Rusak
+2,PC CLIENT,PC,Lenovo,Legion,USA,2017,2,60,1,Normal
+3,PC CLIENT,PC,HP,Tower,USA,2017,3,60,1,Normal
+1,CCTV001,CCTV ,Sony,SNC DH110,Jepang,2016,3,40,1,Rusak
+2,CCTV002,CCTV ,Sony,SNC DH110,Jepang,2016,2,40,1,Rusak
+3,CCTV003,CCTV ,Sony,SNC EP521,Jepang,2016,1,40,1,Rusak
+4,CCTV004,CCTV ,Sony,SNC EP521,Jepang,2016,3,40,1,Perbaikan
+5,CCTV005,CCTV ,Sony,SNC DH110,Jepang,2016,2,40,1,Normal
+6,CCTV006,CCTV ,Sony,SNC DH110,Jepang,2016,1,40,1,Rusak
+7,CCTV007,CCTV ,Sony,SNC DH110,Jepang,2016,1,40,1,Rusak
+8,CCTV008,CCTV ,Sony,SNC DH110,Jepang,2016,1,40,1,Perbaikan
+9,CCTV009,CCTV ,Sony,SNC DH110,Jepang,2016,1,40,1,Normal
+10,CCTV010,CCTV ,Sony,SNC DH110,Jepang,2016,1,40,1,Normal
+11,CCTV011,CCTV ,Sony,SNC DH110,Jepang,2016,2,40,1,Normal
+12,CCTV012,CCTV ,Sony,SNC DH110,Jepang,2016,3,40,1,Normal
+13,CCTV013,CCTV ,Sony,SNC DH110,Jepang,2016,4,40,1,Perbaikan
+14,CCTV014,CCTV ,Sony,SNC DH110,Jepang,2016,3,40,1,Normal
+15,CCTV015,CCTV ,Sony,SNC EP521,Jepang,2016,2,40,1,Normal
+16,CCTV016,CCTV ,Sony,SNC EP521,Jepang,2016,1,40,1,Normal
+17,CCTV017,CCTV ,Sony,SNC DH110,Jepang,2016,1,40,1,Rusak
+18,CCTV018,CCTV ,Sony,SNC DH110,Jepang,2018,4,80,1,Normal
+19,CCTV019,CCTV ,Sony,SNC DH110,Jepang,2019,4,100,1,Rusak
+20,CCTV020,CCTV ,Sony,SNC DH110,Jepang,2016,2,40,1,Normal
+21,CCTV021,CCTV ,Sony,SNC DH110,Jepang,2016,1,40,1,Rusak
+22,CCTV022,CCTV ,Sony,SNC DH110,Jepang,2016,3,40,1,Rusak
+23,CCTV023,CCTV ,Sony,SNC DH110,Jepang,2016,2,40,1,Normal
+24,CCTV024,CCTV ,Sony,SNC DH110,Jepang,2015,1,20,1,Normal
+25,CCTV025,CCTV ,Sony,SNC EP550,Jepang,2016,3,40,1,Normal
+26,CCTV026,CCTV ,Sony,SNC EP550,Jepang,2016,2,40,1,Normal
+27,CCTV027,CCTV ,Sony,SNC DH110,Jepang,2019,4,100,1,Normal
+28,CCTV028,CCTV ,Sony,SNC DH110,Jepang,2016,3,40,1,Normal
+29,CCTV029,CCTV ,Sony,SNC DH110,Jepang,2016,2,40,1,Normal
+30,CCTV030,CCTV ,Sony,SNC DH110,Jepang,2016,2,40,1,Normal
+31,CCTV031,CCTV ,Sony,SNC DH110,Jepang,2016,1,40,1,Normal
+32,CCTV032,CCTV ,Sony,SNC DH110,Jepang,2016,3,40,1,Perbaikan
+33,CCTV033,CCTV ,Sony,SNC EP521,Jepang,2016,4,40,1,Normal
+34,CCTV034,CCTV ,Sony,SNC EP521,Jepang,2016,4,40,1,Normal
+35,CCTV035,CCTV ,Sony,SNC DH110,Jepang,2016,3,40,1,Normal
+36,CCTV036,CCTV ,Sony,SNC DH110,Jepang,2016,1,40,1,Normal
+37,CCTV037,CCTV ,DAHUA,DH-SD65230-HNI,China,2015,1,20,1,Normal
+38,CCTV038,CCTV ,DAHUA,DH-SD65230-HNI,China,2015,3,20,1,Normal
+39,CCTV039,CCTV ,DAHUA,DH-SD65230-HNI,China,2015,2,20,1,Normal
+40,CCTV040,CCTV ,SONY,,,,1,,1,Rusak
+41,CCTV041,CCTV ,SONY,,,,,,1,Normal
+42,CCTV042,CCTV ,SONY,,,,,,1,Perbaikan
+43,CCTV043,CCTV ,Sony,,Jepang,2016,1,40,1,Normal
+44,CCTV044,CCTV ,Sony,,Jepang,2016,2,40,1,Normal
+45,CCTV045,CCTV ,Sony,,Jepang,2015,1,20,1,Rusak
+46,CCTV046,CCTV ,Sony,,Jepang,2018,4,80,1,Rusak
+47,CCTV047,CCTV ,Sony,,Jepang,2019,4,100,1,Normal
+48,CCTV048,CCTV ,Sony,,Jepang,2016,1,40,1,Normal
+49,CCTV049,CCTV ,Sony,,Jepang,2016,3,40,1,Normal
+50,CCTV050,CCTV ,Sony,,Jepang,2016,2,40,1,Normal
+51,CCTV051,CCTV ,Sony,,Jepang,2016,1,40,1,Normal
+52,CCTV052,CCTV ,Sony,,Jepang,2016,2,40,1,Normal
+53,CCTV053,CCTV ,Sony,,Jepang,2016,3,40,1,Perbaikan
+54,CCTV054,CCTV ,Sony,,Jepang,2016,,40,1,Rusak
+55,CCTV055,CCTV ,Sony,,Jepang,2016,,40,1,Perbaikan
+56,CCTV056,CCTV ,Sony,,Jepang,2016,,40,1,Normal
+57,CCTV057,CCTV ,Sony,,Jepang,2016,,40,1,Normal
+58,CCTV058,CCTV ,Sony,,Jepang,2016,,40,1,Normal
+59,CCTV059,CCTV ,Sony,,Jepang,2016,,40,1,Perbaikan
+60,CCTV060,CCTV ,Sony,,Jepang,2016,,40,1,Rusak
+61,CCTV061,CCTV ,Sony,,Jepang,2016,,40,1,Normal
+62,CCTV062,CCTV ,Sony,,Jepang,2016,,40,1,Normal
+63,CCTV063,CCTV ,Sony,,Jepang,2016,,40,1,Normal
+64,CCTV064,CCTV ,Sony,,Jepang,2016,,40,1,Normal
+65,CCTV065,CCTV ,Sony,,Jepang,2016,,40,1,Rusak
+66,CCTV066,CCTV ,Sony,,Jepang,2016,,40,1,Perbaikan
+67,CCTV067,CCTV ,Sony,,Jepang,2016,,40,1,Perbaikan
+68,CCTV068,CCTV ,Sony,,Jepang,2016,,40,1,Normal
+69,CCTV069,CCTV ,Sony,,Jepang,2016,,40,1,Normal
+70,CCTV070,CCTV ,Sony,,Jepang,2016,,40,1,Normal
+71,CCTV071,CCTV ,Sony,,Jepang,2016,,40,1,Normal
+72,CCTV072,CCTV ,Sony,,Jepang,2016,,40,1,Normal
+73,CCTV073,CCTV ,Sony,,Jepang,2016,,40,1,Normal
+74,CCTV074,CCTV ,Sony,,Jepang,2016,,40,1,Normal
+75,CCTV075,CCTV ,Sony,,Jepang,2017,,60,1,Normal
+76,CCTV076,CCTV ,Sony,,Jepang,2017,,60,1,Rusak
+77,CCTV077,CCTV ,Sony,,Jepang,2017,,60,1,Normal
+78,CCTV078,CCTV ,Vivotek,SD9364-EHL,China,2018,4,80,1,Normal
+79,CCTV079,CCTV ,Vivotek,SD9364-EHL,China,2018,4,80,1,Rusak
+80,CCTV080,CCTV ,Vivotek,SD9364-EHL,China,2018,3,80,1,Rusak
+81,CCTV081,CCTV ,Vivotek,SD9364-EHL,China,2018,2,80,1,Rusak
+82,CCTV082,CCTV ,Vivotek,SD9364-EHL,China,2018,1,80,1,Normal
+83,CCTV083,CCTV ,Vivotek,SD9364-EHL,China,2018,4,80,1,Normal
+84,CCTV084,CCTV ,Vivotek,SD9364-EHL,China,2018,3,80,1,Normal
+85,CCTV085,CCTV ,Vivotek,SD9364-EHL,China,2016,1,40,1,Normal
+86,CCTV086,CCTV ,Vivotek,SD9364-EHL,China,2015,3,20,1,Normal
+87,CCTV087,CCTV ,Vivotek,FD9381-HTV,China,2018,3,80,1,Perbaikan
+88,CCTV088,CCTV ,Vivotek,FD9381-HTV,China,2014,1,0,1,Rusak
+89,CCTV089,CCTV ,Vivotek,FD9381-HTV,China,2018,,80,1,Normal
+90,CCTV090,CCTV ,Vivotek,FD9381-HTV,China,2018,,80,1,Normal
+91,CCTV091,CCTV ,Vivotek,FD9381-HTV,China,2018,,80,1,Normal
+92,CCTV092,CCTV ,Vivotek,FD9381-HTV,China,2018,,80,1,Normal
+93,CCTV093,CCTV ,Vivotek,FD9381-HTV,China,2018,,80,1,Perbaikan
+94,CCTV094,CCTV ,Vivotek,FD9167-HT,China,2019,,100,1,Perbaikan
+95,CCTV095,CCTV ,Vivotek,FD9167-HT,China,2019,4,100,1,Normal
+96,CCTV096,CCTV ,Vivotek,FD9167-HT,China,2019,4,100,1,Perbaikan
+97,CCTV097,CCTV ,Vivotek,FD9167-HT,China,2019,4,100,1,Normal
+98,CCTV098,CCTV ,Vivotek,FD9167-HT,China,2019,3,100,1,Normal
+99,CCTV099,CCTV ,Vivotek,FD9167-HT,China,2019,2,100,1,Normal
+100,CCTV100,CCTV ,Vivotek,FD9167-HT,China,2019,2,100,1,Normal
+101,CCTV101,CCTV ,Vivotek,FD9167-HT,China,2019,1,100,1,Normal
+102,CCTV102,CCTV ,Vivotek,FD9167-HT,China,2019,,100,1,Normal
+103,CCTV103,CCTV ,Vivotek,FD9167-HT,China,2019,2,100,1,Normal
+104,CCTV104,CCTV ,Vivotek,FD9167-HT,China,2019,3,100,1,Normal
+105,CCTV105,CCTV ,Vivotek,FD9167-HT,China,2019,3,100,1,Normal
+106,CCTV106,CCTV ,Vivotek,FD9167-HT,China,2019,1,100,1,Normal
+107,CCTV107,CCTV ,Vivotek,FD9167-HT,China,2019,1,100,1,Normal
+108,CCTV108,CCTV ,Vivotek,FD9167-HT,China,2019,2,100,1,Perbaikan
+109,CCTV109,CCTV ,Vivotek,FD9167-HT,China,2019,,100,1,Perbaikan
+110,CCTV110,CCTV ,Vivotek,FD9167-HT,China,2019,,100,1,Normal
+111,CCTV111,CCTV ,Vivotek,FD9167-HT,China,2019,,100,1,Normal
+112,CCTV112,CCTV ,Vivotek,FD9167-HT,China,2019,,100,1,Normal
+113,CCTV113,CCTV ,Vivotek,FD9167-HT,China,2019,,100,1,Normal
+114,CCTV114,CCTV ,Vivotek,FD9167-HT,China,2019,,100,1,Normal
+115,CCTV115,CCTV ,Vivotek,FD9167-HT,China,2019,,100,1,Normal
+116,CCTV116,CCTV ,Vivotek,FD9167-HT,China,2019,,100,1,Normal
+117,CCTV117,CCTV ,Vivotek,FD9167-HT,China,2019,,100,1,Normal
+118,CCTV118,CCTV ,Vivotek,FD9167-HT,China,2019,4,100,1,Normal
+119,CCTV119,CCTV ,Vivotek,FD9167-HT,China,2019,4,100,1,Normal
+120,CCTV120,CCTV ,Vivotek,FD9167-HT,China,2019,3,100,1,Normal
+121,CCTV121,CCTV ,Vivotek,FD9167-HT,China,2019,2,100,1,Normal
+122,CCTV122,CCTV ,Vivotek,FD9167-HT,China,2019,1,100,1,Perbaikan
+123,CCTV123,CCTV ,Vivotek,FD9167-HT,China,2019,2,100,1,Perbaikan
+124,CCTV124,CCTV ,Vivotek,FD9167-HT,China,2019,3,100,1,Normal
+125,CCTV125,CCTV ,Vivotek,FD9167-HT,China,2019,4,100,1,Normal
+126,CCTV126,CCTV ,Vivotek,FD9381-HTV,China,2016,1,40,1,Rusak
+127,CCTV127,CCTV ,Vivotek,FD9381-HTV,China,2019,,100,1,Normal
+128,CCTV128,CCTV ,Vivotek,FD9381-HTV,China,2019,,100,1,Normal
+129,CCTV129,CCTV ,Vivotek,FD9381-HTV,China,2019,,100,1,Normal
+130,CCTV130,CCTV ,Vivotek,"FE9391-EV
+",China,2019,,100,1,Normal
+131,CCTV131,CCTV ,Vivotek,"FE9391-EV
+",China,2019,,100,1,Normal
+132,CCTV132,CCTV ,Vivotek,"FE9391-EV
+",China,2019,,100,1,Normal
+133,CCTV133,CCTV ,Vivotek,"FE9391-EV
+",China,2019,,100,1,Normal
+134,CCTV134,CCTV ,Vivotek,"FE9391-EV
+",China,2019,,100,1,Normal
+135,CCTV135,CCTV ,Vivotek,"FE9391-EV
+",China,2019,,100,1,Normal
+136,CCTV136,CCTV ,Vivotek,"FE9391-EV
+",China,2019,,100,1,Normal
+137,CCTV137,CCTV ,Vivotek,"FE9391-EV
+",China,2019,,100,1,Normal
+138,CCTV138,CCTV ,Vivotek,"FE9391-EV
+",China,2019,,100,1,Normal
+139,CCTV139,CCTV ,Vivotek,"FE9391-EV
+",China,2019,,100,1,Normal
+140,CCTV140,CCTV ,Vivotek,"FE9391-EV
+",China,2019,,100,1,Perbaikan
+141,CCTV141,CCTV ,Vivotek,"FE9391-EV
+",China,2019,,100,1,Normal
+142,CCTV142,CCTV ,Vivotek,"FE9391-EV
+",China,2019,,100,1,Perbaikan
+143,CCTV143,CCTV ,Vivotek,SD9366-EHL,China,2019,,100,1,Normal
+144,CCTV144,CCTV ,Vivotek,SD9366-EHL,China,2019,,100,1,Normal
+145,CCTV145,CCTV ,Vivotek,SD9366-EHL,China,2019,,100,1,Normal
+146,CCTV146,CCTV ,Vivotek,SD9366-EHL,China,2019,,100,1,Normal
+147,CCTV147,CCTV ,Vivotek,SD9366-EHL,China,2019,,100,1,Normal
+148,CCTV148,CCTV ,Vivotek,SD9366-EHL,China,2019,,100,1,Normal
+149,CCTV 0149 FACE RECOGNIS,CCTV ,huawei,,China,2015,1,20,1,Rusak
+150,CCTV 050 FACE RECOGNIS,CCTV ,huawei,,China,2016,2,40,1,Perbaikan
+151,CCTV 0151 FACE RECOGNIS,CCTV ,huawei,,China,2017,2,60,1,Normal
+1,Display Checkin-01,Display Checkin,Raspberry/LG,-,UK/Korsel,2016,2,40,1,Perbaikan
+2,Display Checkin-02,Display Checkin,Intel NUC/LG,-,UK/Korsel,2017,2,60,1,Normal
+3,Display Checkin-03,Display Checkin,Raspberry/LG,-,UK/Korsel,2016,2,40,1,Normal
+4,Display Checkin-04,Display Checkin,Raspberry/LG,-,UK/Korsel,2016,1,40,1,Rusak
+5,Display Checkin-05,Display Checkin,Raspberry/LG,-,UK/Korsel,2016,2,40,1,Perbaikan
+6,Display Checkin-06,Display Checkin,Intel NUC/LG,-,UK/Korsel,2016,1,40,1,Rusak
+7,Display Checkin-07,Display Checkin,Raspberry/LG,-,UK/Korsel,2019,4,100,1,Normal
+8,Display Checkin-08,Display Checkin,Raspberry/LG,-,UK/Korsel,2016,1,40,1,Rusak
+9,Display Checkin-09,Display Checkin,Raspberry/LG,-,UK/Korsel,2015,1,20,1,Rusak
+10,Display Checkin-10,Display Checkin,Raspberry/LG,-,UK/Korsel,2019,4,100,1,Normal
+11,Display Checkin-11,Display Checkin,Raspberry/LG,-,UK/Korsel,2014,3,0,1,Rusak
+12,Display Checkin-12,Display Checkin,Raspberry/LG,-,UK/Korsel,2016,2,40,1,Perbaikan
+13,Display Checkin-13,Display Checkin,Raspberry/LG,-,UK/Korsel,2016,3,40,1,Perbaikan
+14,Display Checkin-14,Display Checkin,Raspberry/LG,-,UK/Korsel,2016,1,40,1,Perbaikan
+15,Display Checkin-15,Display Checkin,Raspberry/LG,-,UK/Korsel,2016,3,40,1,Perbaikan
+16,Display Checkin-16,Display Checkin,Intel NUC/LG,-,UK/Korsel,2017,3,60,1,Normal
+17,Display Checkin-17,Display Checkin,Raspberry/LG,-,UK/Korsel,2015,1,20,1,Rusak
+18,Display Checkin-18,Display Checkin,Raspberry/LG,-,UK/Korsel,2016,3,40,1,Rusak
+19,Display Checkin-19,Display Checkin,Raspberry/LG,-,UK/Korsel,2016,2,40,1,Perbaikan
+20,Display Checkin-20,Display Checkin,Raspberry/LG,-,UK/Korsel,2016,1,40,1,Normal
+21,Display Checkin-21,Display Checkin,Raspberry/LG,-,UK/Korsel,2016,2,40,1,Normal
+22,Display Checkin-22,Display Checkin,Raspberry/LG,-,UK/Korsel,2016,3,40,1,Normal
+23,Display Checkin-23,Display Checkin,Raspberry/LG,-,UK/Korsel,2019,4,100,1,Normal
+24,Display Checkin-24,Display Checkin,Raspberry/LG,-,UK/Korsel,2016,,40,1,Normal
+25,Display Checkin-25,Display Checkin,Raspberry/LG,-,UK/Korsel,2016,,40,1,Normal
+26,Display Checkin-26,Display Checkin,Raspberry/LG,-,UK/Korsel,2016,,40,1,Normal
+1,Main Power Switch Panel,Public Address System(PAS),TOA,PS-011B,Jepang,2016,1,80,1,Perbaikan
+1,Microphone Receiver Panel,Public Address System(PAS),TOA,Z-FV200RI-AS,Jepang,2016,2,80,1,Perbaikan
+1,Monitor Panel,Public Address System(PAS),TOA,MP-032B,Jepang,2016,3,80,1,Normal
+1,Emergency Message Panel,Public Address System(PAS),TOA,Z-FV200EV-AS,Jepang,2016,4,80,1,Normal
+1,Amplifier-01,Public Address System(PAS),TOA,DA-250DH,Jepang,2016,4,80,1,Normal
+2,Amplifier-02,Public Address System(PAS),TOA,DA-250DH,Jepang,2016,2,80,1,Normal
+3,Amplifier-03,Public Address System(PAS),TOA,DA-250DH,Jepang,2016,1,80,1,Normal
+4,Amplifier-04,Public Address System(PAS),TOA,DA-250DH,Jepang,2016,3,80,1,Normal
+5,Amplifier-05,Public Address System(PAS),TOA,DA-250DH,Jepang,2016,3,80,1,Normal
+1,Pre-Amplifier-001,Public Address System(PAS),TOA,M-9000M2,Jepang,2014,1,67,1,Normal
+2,Pre-Amplifier-002,Public Address System(PAS),TOA,M-9000M3,Jepang,2013,2,60,1,Normal
+1,Mic-001,Public Address System(PAS),TOA,RM-200M,Jepang,2014,1,0,1,Rusak
+2,Mic-002,Public Address System(PAS),TOA,RM-200M,Jepang,2016,2,40,1,Perbaikan
+3,Mic-003,Public Address System(PAS),TOA,ZM-660M,Indonesia,2019,4,100,1,Normal
+4,Mic-004,Public Address System(PAS),TOA,ZM-660M,Indonesia,2015,1,20,1,Perbaikan
+5,Mic-005,Public Address System(PAS),TOA,ZM-660M,Indonesia,2016,2,40,1,Normal
+6,Mic-006,Public Address System(PAS),TOA,,,2014,1,0,1,Rusak
+7,Mic-007,Public Address System(PAS),TOA,,,2016,3,40,1,Perbaikan
+6,Mic-AAS 1,Public Address System(PAS),TOA,,,2017,3,60,1,Normal
+7,Mic-AAS 2,Public Address System(PAS),TOA,,,2017,4,60,1,Normal
+8,Mic-AAS 3,Public Address System(PAS),TOA,,,2017,3,60,1,Normal
+9,Mic-AAS 4,Public Address System(PAS),TOA,,,2017,2,60,1,Normal
+1,Remote Sensing-01,Public Address System(PAS),TOA,,,2016,1,80,1,Normal
+2,Remote Sensing-02,Public Address System(PAS),TOA,,,2016,4,80,1,Normal
+1,Ceiling Speaker-001,Public Address System(PAS),TOA,,,2016,4,80,1,Normal
+2,Ceiling Speaker-002,Public Address System(PAS),TOA,,,2016,1,80,1,Normal
+3,Ceiling Speaker-003,Public Address System(PAS),TOA,,,2016,2,80,1,Normal
+4,Ceiling Speaker-004,Public Address System(PAS),TOA,,,2016,3,80,1,Normal
+5,Ceiling Speaker-005,Public Address System(PAS),TOA,,,2016,4,80,1,Normal
+6,Ceiling Speaker-006,Public Address System(PAS),TOA,,,2016,4,80,1,Normal
+7,Ceiling Speaker-007,Public Address System(PAS),TOA,,,2016,4,80,1,Normal
+8,Ceiling Speaker-008,Public Address System(PAS),TOA,,,2016,4,80,1,Normal
+9,Ceiling Speaker-009,Public Address System(PAS),TOA,,,2016,4,80,1,Normal
+10,Ceiling Speaker-010,Public Address System(PAS),TOA,,,2016,4,80,1,Normal
+11,Ceiling Speaker-011,Public Address System(PAS),TOA,,,2016,2,80,1,Normal
+12,Ceiling Speaker-012,Public Address System(PAS),TOA,,,2016,1,80,1,Normal
+13,Ceiling Speaker-013,Public Address System(PAS),TOA,,,2016,3,80,1,Normal
+14,Ceiling Speaker-014,Public Address System(PAS),TOA,,,2016,2,80,1,Normal
+15,Ceiling Speaker-015,Public Address System(PAS),TOA,,,2016,2,80,1,Normal
+16,Ceiling Speaker-016,Public Address System(PAS),TOA,,,2016,2,80,1,Normal
+17,Ceiling Speaker-017,Public Address System(PAS),TOA,,,2016,2,80,1,Normal
+18,Ceiling Speaker-018,Public Address System(PAS),TOA,,,2016,3,80,1,Normal
+19,Ceiling Speaker-019,Public Address System(PAS),TOA,,,2016,4,80,1,Normal
+20,Ceiling Speaker-020,Public Address System(PAS),TOA,,,2016,3,80,1,Perbaikan
+21,Ceiling Speaker-021,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+22,Ceiling Speaker-022,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+23,Ceiling Speaker-023,Public Address System(PAS),TOA,,,2016,,80,1,Perbaikan
+24,Ceiling Speaker-024,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+25,Ceiling Speaker-025,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+26,Ceiling Speaker-026,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+27,Ceiling Speaker-027,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+28,Ceiling Speaker-028,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+29,Ceiling Speaker-029,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+30,Ceiling Speaker-030,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+31,Ceiling Speaker-031,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+32,Ceiling Speaker-032,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+33,Ceiling Speaker-033,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+34,Ceiling Speaker-034,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+35,Ceiling Speaker-035,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+36,Ceiling Speaker-036,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+37,Ceiling Speaker-037,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+38,Ceiling Speaker-038,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+39,Ceiling Speaker-039,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+40,Ceiling Speaker-040,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+41,Ceiling Speaker-041,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+42,Ceiling Speaker-042,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+43,Ceiling Speaker-043,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+44,Ceiling Speaker-044,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+45,Ceiling Speaker-045,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+46,Ceiling Speaker-046,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+47,Ceiling Speaker-047,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+48,Ceiling Speaker-048,Public Address System(PAS),TOA,,,2016,,80,1,Perbaikan
+49,Ceiling Speaker-049,Public Address System(PAS),TOA,,,2016,,80,1,Perbaikan
+50,Ceiling Speaker-050,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+51,Ceiling Speaker-051,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+52,Ceiling Speaker-052,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+53,Ceiling Speaker-053,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+54,Ceiling Speaker-054,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+55,Ceiling Speaker-055,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+56,Ceiling Speaker-056,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+57,Ceiling Speaker-057,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+58,Ceiling Speaker-058,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+59,Ceiling Speaker-059,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+60,Ceiling Speaker-060,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+61,Ceiling Speaker-061,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+62,Ceiling Speaker-062,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+63,Ceiling Speaker-063,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+64,Ceiling Speaker-064,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+65,Ceiling Speaker-065,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+66,Ceiling Speaker-066,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+67,Ceiling Speaker-067,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+68,Ceiling Speaker-068,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+69,Ceiling Speaker-069,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+70,Ceiling Speaker-070,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+71,Ceiling Speaker-071,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+72,Ceiling Speaker-072,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+73,Ceiling Speaker-073,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+74,Ceiling Speaker-074,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+75,Ceiling Speaker-075,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+76,Ceiling Speaker-076,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+77,Ceiling Speaker-077,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+78,Ceiling Speaker-078,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+79,Ceiling Speaker-079,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+80,Ceiling Speaker-080,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+81,Ceiling Speaker-081,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+82,Ceiling Speaker-082,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+83,Ceiling Speaker-083,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+84,Ceiling Speaker-084,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+85,Ceiling Speaker-085,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+86,Ceiling Speaker-086,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+87,Ceiling Speaker-087,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+88,Ceiling Speaker-088,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+89,Ceiling Speaker-089,Public Address System(PAS),TOA,,,2016,,80,1,N
+90,Ceiling Speaker-090,Public Address System(PAS),TOA,,,2016,,80,1,Perbaikan
+91,Ceiling Speaker-091,Public Address System(PAS),TOA,,,2016,,80,1,Perbaikan
+92,Ceiling Speaker-092,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+93,Ceiling Speaker-093,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+94,Ceiling Speaker-094,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+95,Ceiling Speaker-095,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+96,Ceiling Speaker-096,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+97,Ceiling Speaker-097,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+98,Ceiling Speaker-098,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+99,Ceiling Speaker-099,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+100,Ceiling Speaker-100,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+101,Ceiling Speaker-101,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+102,Ceiling Speaker-102,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+103,Ceiling Speaker-103,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+104,Ceiling Speaker-104,Public Address System(PAS),TOA,,,2016,,80,1,Perbaikan
+105,Ceiling Speaker-105,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+106,Ceiling Speaker-106,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+107,Ceiling Speaker-107,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+108,Ceiling Speaker-108,Public Address System(PAS),TOA,,,2016,,80,1,Perbaikan
+109,Ceiling Speaker-109,Public Address System(PAS),TOA,,,2016,,80,1,Perbaikan
+110,Ceiling Speaker-110,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+111,Ceiling Speaker-111,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+112,Ceiling Speaker-112,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+113,Ceiling Speaker-113,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+114,Ceiling Speaker-114,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+115,Ceiling Speaker-115,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+116,Ceiling Speaker-116,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+117,Coulumb Speaker-001,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+118,Coulumb Speaker-002,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+119,Coulumb Speaker-003,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+120,Coulumb Speaker-004,Public Address System(PAS),TOA,,,2016,,80,1,Normal
+1,Access Control,Acces Control,Honeywell,,,2016,,70,1,Normal
+1,NTP Clock Server-01,Master clock,Mobatime,DTS 4128,Switzerland,2016,4,70,1,Normal
+2,NTP Clock Server-02,Master clock,Mobatime,DTS 4128,Switzerland,2016,4,70,1,Normal
+1,Slave Clock 4 Digit Double Face-01,Master clock,Mobatime,,Switzerland,2016,4,70,1,Normal
+2,Slave Clock 4 Digit Double Face-02,Master clock,Mobatime,,Switzerland,2016,2,70,1,Normal
+3,Slave Clock 4 Digit Single Face-01,Master clock,Mobatime,,Switzerland,2016,1,70,1,Normal
+4,Slave Clock 4 Digit Single Face-02,Master clock,Mobatime,,Switzerland,2016,2,70,1,Normal
+5,Slave Clock 4 Digit Single Face-03,Master clock,Mobatime,,Switzerland,2016,3,70,1,Normal
+6,Slave Clock 4 Digit Single Face-04,Master clock,Mobatime,,Switzerland,2016,2,70,1,Normal
+7,Slave Clock 4 Digit Single Face-05,Master clock,Mobatime,,Switzerland,2016,1,70,1,Normal
+8,Slave Clock 4 Digit Single Face-06,Master clock,Mobatime,,Switzerland,2016,3,70,1,Normal
+9,Slave Clock 4 Digit Single Face-07,Master clock,Mobatime,,Switzerland,2016,2,70,1,Normal
+10,Slave Clock 4 Digit Single Face-08,Master clock,Mobatime,,Switzerland,2016,3,70,1,Normal
+1,BAS,BAS,,,,2016,1,70,1,Normal
+1,IP PABX Server,PABX,Alcatel Lucent,OMNI PCX,China,2016,4,100,1,Normal
+1,IP PHONE-1-100,PABX,Alcatel Lucent,IP Touch 4038IP,China,2016,4,100,1,Normal
+2,IP PHONE-1-516,PABX,Alcatel Lucent,IP Touch 4038IP,China,2016,4,100,1,Normal
+3,IP PHONE-1-333,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,4,100,1,Normal
+4,IP PHONE-1-520,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,4,100,1,Normal
+5,IP PHONE-1-522,PABX,Alcatel Lucent,IP Touch 4008IP,China,2012,3,80,1,Normal
+6,IP PHONE-1-523,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,2,100,1,Normal
+7,IP PHONE-1-524,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,1,100,1,Normal
+8,IP PHONE-1-513,PABX,Alcatel Lucent,IP Touch 4008IP,China,2012,1,80,1,Normal
+9,IP PHONE-1-526,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,2,100,1,Normal
+10,IP PHONE-1-527,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,3,100,1,Normal
+11,IP PHONE-1-530,PABX,Alcatel Lucent,IP Touch 4008IP,China,2014,2,90,1,Normal
+12,IP PHONE-1-531,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,3,100,1,Normal
+13,IP PHONE-1-532,PABX,Alcatel Lucent,IP Touch 4008IP,China,2015,2,95,1,Normal
+14,IP PHONE-1-533,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,4,100,1,Normal
+15,IP PHONE-1-534,PABX,Alcatel Lucent,IP Touch 4008IP,China,2011,2,75,1,Normal
+16,IP PHONE-1-539,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,3,100,1,Normal
+17,IP PHONE-1-540,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,3,100,1,Normal
+18,IP PHONE-1-541,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,2,100,1,Normal
+19,IP PHONE-1-529,PABX,Alcatel Lucent,IP Touch 4008IP,China,2013,3,85,1,Normal
+20,IP PHONE-2-536,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,4,100,1,Normal
+21,IP PHONE-2-548,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,,100,1,Normal
+22,IP PHONE-2-551,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,,100,1,Normal
+23,IP PHONE-2-552,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,,100,1,Normal
+24,IP PHONE-2-553,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,,100,1,Normal
+25,IP PHONE-2-535,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,,100,1,Normal
+26,IP PHONE-3-102,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,,100,1,Normal
+27,IP PHONE-3-200,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,,100,1,Normal
+28,IP PHONE-3-204,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,,100,1,Normal
+29,IP PHONE-3-203,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,,100,1,Normal
+30,IP PHONE-3-207,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,,100,1,Normal
+31,IP PHONE-3-320,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,,100,1,Normal
+32,IP PHONE-3-206,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,,100,1,Normal
+33,IP PHONE-3-209,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,,100,1,Normal
+34,IP PHONE-3-208,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,,100,1,Normal
+35,IP PHONE-3-213,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,,100,1,Normal
+36,IP PHONE-3-214,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,,100,1,Normal
+37,IP PHONE-3-205,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,,100,1,Normal
+38,IP PHONE-3-,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,,100,1,Normal
+39,IP PHONE-3-409,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,,100,1,Normal
+40,IP PHONE-3-412,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,,100,1,Normal
+41,IP PHONE-3-304,PABX,Alcatel Lucent,IP Touch 4008IP,China,2016,,100,1,Normal
+1,MC Fire Alarm,Fire Alarm System,Notifier,NFS2-3030,USA,2016,,100,1,Normal
+1,TBFA 1,Fire Alarm System,,,,,,,1,Normal
+2,TBFA 2,Fire Alarm System,,,,,,,1,Normal
+3,TBFA 3,Fire Alarm System,,,,,,,1,Normal
+4,TBFA 4,Fire Alarm System,,,,,,,1,Normal
+1,Annunciator FA,Fire Alarm System,Notifier,NFS2-3030 E,USA,2016,4,100,1,Normal
+1,PC Monitoring FA,Fire Alarm System,Dell,Optiplex 7020,USA,2016,4,100,1,Normal
+1,Alarm Bell (Box Hydrant) FA-01,Fire Alarm System,Notifier,,USA,2016,4,100,1,Normal
+2,Alarm Bell (Box Hydrant) FA-02,Fire Alarm System,Notifier,,USA,2016,4,100,1,Normal
+3,Alarm Bell (Box Hydrant) FA-03,Fire Alarm System,Notifier,,USA,2016,4,100,1,Normal
+4,Alarm Bell (Box Hydrant) FA-04,Fire Alarm System,Notifier,,USA,2016,4,100,1,Normal
+5,Alarm Bell (Box Hydrant) FA-05,Fire Alarm System,Notifier,,USA,2016,4,100,1,Normal
+6,Alarm Bell (Box Hydrant) FA-06,Fire Alarm System,Notifier,,USA,2016,4,100,1,Normal
+7,Alarm Bell (Box Hydrant) FA-07,Fire Alarm System,Notifier,,USA,2016,4,100,1,Normal
+8,Alarm Bell (ind. Lamp) FA-01,Fire Alarm System,Notifier,,USA,2016,4,100,1,Normal
+9,Alarm Bell (ind. Lamp) FA-02,Fire Alarm System,Notifier,,USA,2016,4,100,1,Normal
+10,Alarm Bell (ind. Lamp) FA-03,Fire Alarm System,Notifier,,USA,2016,4,100,1,Normal
+11,Alarm Bell (ind. Lamp) FA-04,Fire Alarm System,Notifier,,USA,2016,4,100,1,Normal
+12,Alarm Bell (ind. Lamp) FA-05,Fire Alarm System,Notifier,,USA,2016,4,100,1,Normal
+13,Alarm Bell (ind. Lamp) FA-06,Fire Alarm System,Notifier,,USA,2016,4,100,1,Normal
+1,Heat Detector FA-001,Fire Alarm System,Notifier,FST-851,USA,2016,4,100,1,Normal
+2,Heat Detector FA-002,Fire Alarm System,Notifier,FST-851,USA,2016,4,100,1,Normal
+3,Heat Detector FA-003,Fire Alarm System,Notifier,FST-851,USA,2016,4,100,1,Normal
+4,Heat Detector FA-004,Fire Alarm System,Notifier,FST-851,USA,2016,4,100,1,Normal
+1,Smoke Detector FA-001,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+2,Smoke Detector FA-002,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+3,Smoke Detector FA-003,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+4,Smoke Detector FA-004,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+5,Smoke Detector FA-005,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+6,Smoke Detector FA-006,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+7,Smoke Detector FA-007,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+8,Smoke Detector FA-008,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+9,Smoke Detector FA-009,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+10,Smoke Detector FA-010,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+11,Smoke Detector FA-011,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+12,Smoke Detector FA-012,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+13,Smoke Detector FA-013,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+14,Smoke Detector FA-014,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+15,Smoke Detector FA-015,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+16,Smoke Detector FA-016,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+17,Smoke Detector FA-017,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+18,Smoke Detector FA-018,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+19,Smoke Detector FA-019,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+20,Smoke Detector FA-020,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+21,Smoke Detector FA-021,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+22,Smoke Detector FA-022,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+23,Smoke Detector FA-023,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+24,Smoke Detector FA-024,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+25,Smoke Detector FA-025,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+26,Smoke Detector FA-026,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+27,Smoke Detector FA-027,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+28,Smoke Detector FA-028,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+29,Smoke Detector FA-029,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+30,Smoke Detector FA-030,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+31,Smoke Detector FA-031,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+32,Smoke Detector FA-032,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+33,Smoke Detector FA-033,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+34,Smoke Detector FA-034,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+35,Smoke Detector FA-035,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+36,Smoke Detector FA-036,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+37,Smoke Detector FA-037,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+38,Smoke Detector FA-038,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+39,Smoke Detector FA-039,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+40,Smoke Detector FA-040,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+41,Smoke Detector FA-041,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+42,Smoke Detector FA-042,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+43,Smoke Detector FA-043,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+44,Smoke Detector FA-044,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+45,Smoke Detector FA-045,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+46,Smoke Detector FA-046,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+47,Smoke Detector FA-047,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+48,Smoke Detector FA-048,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+49,Smoke Detector FA-049,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+50,Smoke Detector FA-050,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+51,Smoke Detector FA-051,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+52,Smoke Detector FA-052,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+53,Smoke Detector FA-053,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+54,Smoke Detector FA-054,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+55,Smoke Detector FA-055,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+56,Smoke Detector FA-056,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+57,Smoke Detector FA-057,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+58,Smoke Detector FA-058,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+59,Smoke Detector FA-059,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+60,Smoke Detector FA-060,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+61,Smoke Detector FA-061,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+62,Smoke Detector FA-062,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+63,Smoke Detector FA-063,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+64,Smoke Detector FA-064,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+65,Smoke Detector FA-065,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+66,Smoke Detector FA-066,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+67,Smoke Detector FA-067,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+68,Smoke Detector FA-068,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+69,Smoke Detector FA-069,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+70,Smoke Detector FA-070,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+71,Smoke Detector FA-071,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+72,Smoke Detector FA-072,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+73,Smoke Detector FA-073,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+74,Smoke Detector FA-074,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+75,Smoke Detector FA-075,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+76,Smoke Detector FA-076,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+77,Smoke Detector FA-077,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+78,Smoke Detector FA-078,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+79,Smoke Detector FA-079,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+80,Smoke Detector FA-080,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+81,Smoke Detector FA-081,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+82,Smoke Detector FA-082,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+83,Smoke Detector FA-083,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+84,Smoke Detector FA-084,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+85,Smoke Detector FA-085,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+86,Smoke Detector FA-086,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+87,Smoke Detector FA-087,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+88,Smoke Detector FA-088,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+89,Smoke Detector FA-089,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+90,Smoke Detector FA-090,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+91,Smoke Detector FA-091,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+92,Smoke Detector FA-092,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+93,Smoke Detector FA-093,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+94,Smoke Detector FA-094,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+95,Smoke Detector FA-095,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+96,Smoke Detector FA-096,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+97,Smoke Detector FA-097,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+98,Smoke Detector FA-098,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+99,Smoke Detector FA-099,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+100,Smoke Detector FA-100,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+101,Smoke Detector FA-101,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+102,Smoke Detector FA-102,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+103,Smoke Detector FA-103,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+104,Smoke Detector FA-104,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+105,Smoke Detector FA-105,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+106,Smoke Detector FA-106,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+107,Smoke Detector FA-107,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+108,Smoke Detector FA-108,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+109,Smoke Detector FA-109,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+110,Smoke Detector FA-110,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+111,Smoke Detector FA-111,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+112,Smoke Detector FA-112,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+113,Smoke Detector FA-113,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+114,Smoke Detector FA-114,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
+115,Smoke Detector FA-115,Fire Alarm System,Notifier,FSP-851,USA,2016,4,100,1,Normal
