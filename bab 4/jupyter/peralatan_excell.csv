@@ -1,0 +1,381 @@
+NAMA_PERALATAN,MEREK,BUATAN,KATEGORI,TAHUN_BUATAN,KONDISI,SERTIFIKASI,KETERANGAN
+X-Ray ,Rapiscan,Malaysia,3,2012,53,2,Rusak
+X-Ray ,Smith,Malaysia,2,2018,93,2,Normal
+X-Ray ,Smith,Malaysia,2,2015,73,2,Perbaikan
+X-Ray ,Rapiscan,Malaysia,4,2017,87,2,Normal
+X-Ray ,Rapiscan,Malaysia,4,2018,93,2,Normal
+X-Ray ,Rapiscan,Malaysia,2,2017,87,2,Normal
+X-Ray ,Rapiscan,Malaysia,1,2019,100,1,Normal
+X-Ray ,Smith,Malaysia,2,2016,80,2,Perbaikan
+X-Ray ,Smith,Malaysia,1,2016,80,2,Perbaikan
+X-Ray ,Smith,Malaysia,3,2011,47,2,Rusak
+X-Ray ,Rapiscan,Malaysia,1,2019,100,1,Normal
+Body Scanner,L3,Amerika,2,2016,80,2,Perbaikan
+Explosive Detector,,EROPA,2,2014,67,2,Perbaikan
+WTMD ,CEIA,Italy,2,2015,73,2,Perbaikan
+WTMD ,CEIA,Italy,4,2017,87,2,Normal
+WTMD ,CEIA,Italy,1,2013,60,2,Rusak
+WTMD ,CEIA,Italy,3,2012,53,2,Rusak
+WTMD ,CEIA,Italy,2,2016,80,2,Perbaikan
+WTMD ,CEIA,Italy,2,2015,73,2,Perbaikan
+HHMD ,Garret,USA,3,2012,0,2,Rusak
+HHMD ,Garret,USA,3,2012,0,2,Rusak
+HHMD ,Krisbow,Indonesia,3,2012,0,2,Rusak
+HHMD ,Krisbow,Indonesia,3,2018,80,2,Perbaikan
+HHMD ,Krisbow,Indonesia,3,2012,0,2,Rusak
+HHMD ,Krisbow,Indonesia,3,2012,0,2,Rusak
+HHMD ,CEIA,Italy,3,2016,40,2,Rusak
+HHMD ,CEIA,Italy,3,2018,80,2,Perbaikan
+HHMD ,CEIA,Italy,3,2016,40,2,Rusak
+HHMD ,CEIA,Italy,3,2016,40,2,Rusak
+HHMD ,CEIA,Italy,3,2016,40,2,Rusak
+HHMD ,CEIA,Italy,3,2018,80,2,Perbaikan
+HHMD ,CEIA,Italy,3,2018,80,2,Normal
+HHMD ,CEIA,Italy,3,2016,40,2,Rusak
+HHMD ,CEIA,Italy,3,2018,80,2,Perbaikan
+HHMD ,CEIA,Italy,3,2016,40,2,Rusak
+HHMD ,CEIA,Italy,2,2019,100,2,Normal
+HHMD ,CEIA,Italy,2,2019,100,2,Normal
+PABX,PABX,Siemens,3,1999,0,2,Rusak
+FIDS ,Dell,USA,4,2017,87,2,Normal
+FIDS ,Dell,USA,4,2017,87,2,Normal
+FIDS ,Raspberry/LG,UK/Korsel,3,2018,80,2,Normal
+FIDS ,Raspberry/LG,UK/Korsel,1,2019,100,2,Normal
+FIDS ,Raspberry/LG,UK/Korsel,3,2016,40,2,Rusak
+FIDS ,Alaska F1/LG,UK/Korsel,3,2018,80,2,Perbaikan
+FIDS ,Alaska F1/LG,UK/Korsel,3,2018,80,2,Perbaikan
+FIDS ,Alaska F1/LG,UK/Korsel,1,2019,100,2,Normal
+FIDS ,Raspberry/LG,UK/Korsel,1,2016,40,2,Rusak
+FIDS ,Raspberry/LG,UK/Korsel,1,2019,100,2,Normal
+FIDS ,Alaska F1/LG,UK/Korsel,3,2016,40,2,Rusak
+FIDS ,Alaska F1/LG,UK/Korsel,3,2016,40,2,Rusak
+FIDS ,Intel NUC/LG,UK/Korsel,3,2015,20,2,Rusak
+FIDS ,Alaska F1/LG,UK/Korsel,3,2018,80,2,Perbaikan
+FIDS ,Alaska F1/LG,UK/Korsel,3,2016,40,2,Rusak
+FIDS ,Raspberry/LG,UK/Korsel,2,2018,80,2,Perbaikan
+FIDS ,Raspberry/LG,UK/Korsel,3,2016,40,2,Rusak
+FIDS ,Intel NUC/LG,UK/Korsel,2,2017,60,2,Rusak
+FIDS ,Intel NUC/LG,UK/Korsel,1,2019,100,2,Normal
+FIDS ,Raspberry/LG,UK/Korsel,3,2018,80,2,Perbaikan
+FIDS ,Raspberry/LG,UK/Korsel,3,2016,40,2,Rusak
+FIDS ,Raspberry/LG,UK/Korsel,3,2016,40,2,Rusak
+FIDS ,Raspberry/LG,UK/Korsel,4,2019,100,2,Normal
+FIDS ,Raspberry/LG,UK/Korsel,3,2016,40,2,Rusak
+FIDS ,Raspberry/LG,UK/Korsel,2,2017,60,2,Rusak
+FIDS ,Raspberry/LG,UK/Korsel,1,2019,100,2,Normal
+FIDS ,Intel NUC/LG,UK/Korsel,2,2017,60,2,Rusak
+FIDS ,Intel NUC/LG,UK/Korsel,2,2017,60,2,Rusak
+FIDS ,Intel NUC/LG,UK/Korsel,2,2019,100,2,Normal
+FIDS ,Alaska F1/LG,UK/Korsel,3,2016,40,2,Rusak
+FIDS ,Intel NUC/LG,UK/Korsel,1,2017,60,2,Rusak
+FIDS ,Alaska F1/LG,UK/Korsel,3,2016,40,2,Rusak
+FIDS ,Intel NUC/LG,UK/Korsel,2,2017,60,2,Rusak
+FIDS ,Intel NUC/LG,UK/Korsel,1,2019,100,2,Normal
+FIDS ,Alaska F1/LG,UK/Korsel,1,2016,40,2,Rusak
+CCTV ,Supermicro,USA,4,2017,87,2,Normal
+CCTV ,Supermicro,USA,4,2017,87,2,Normal
+CCTV ,HP,USA,4,2017,87,2,Normal
+CCTV ,HUAWEI,CINA,4,2020,100,2,Normal
+CCTV ,Dell,USA,1,2016,40,2,Rusak
+CCTV ,Lenovo,USA,2,2017,60,2,Rusak
+CCTV ,HP,USA,3,2017,87,2,Normal
+CAMERA,Sony,Jepang,3,2016,40,2,Rusak
+CAMERA,Sony,Jepang,2,2016,40,2,Rusak
+CAMERA,Sony,Jepang,1,2016,40,2,Rusak
+CAMERA,Sony,Jepang,3,2017,60,2,Rusak
+CAMERA,Sony,Jepang,2,2016,40,2,Rusak
+CAMERA,Sony,Jepang,1,2019,100,2,Normal
+CAMERA,Sony,Jepang,1,2016,40,2,Rusak
+CAMERA,Sony,Jepang,2,2017,60,2,Rusak
+CAMERA,Sony,Jepang,2,2019,100,2,Normal
+CAMERA,Sony,Jepang,2,2019,100,2,Normal
+CAMERA,Sony,Jepang,2,2019,100,2,Normal
+CAMERA,Sony,Jepang,3,2017,60,2,Rusak
+CAMERA,Sony,Jepang,4,2016,40,2,Rusak
+CAMERA,Sony,Jepang,1,2019,100,2,Normal
+CAMERA,Sony,Jepang,1,2019,100,2,Normal
+CAMERA,Sony,Jepang,1,2019,100,2,Normal
+CAMERA,Sony,Jepang,1,2016,40,2,Rusak
+CAMERA,Sony,Jepang,2,2018,80,2,Perbaikan
+CAMERA,Sony,Jepang,4,2019,100,2,Normal
+CAMERA,Sony,Jepang,2,2016,40,2,Rusak
+CAMERA,Sony,Jepang,1,2016,40,2,Rusak
+CAMERA,Sony,Jepang,3,2016,40,2,Rusak
+CAMERA,Sony,Jepang,1,2019,100,2,Normal
+CAMERA,Sony,Jepang,1,2019,100,2,Normal
+CAMERA,Sony,Jepang,3,2016,40,2,Rusak
+CAMERA,Sony,Jepang,2,2016,40,2,Rusak
+CAMERA,Sony,Jepang,4,2019,100,2,Normal
+CAMERA,Sony,Jepang,3,2016,40,2,Rusak
+CAMERA,Sony,Jepang,2,2016,40,2,Rusak
+CAMERA,DAHUA,China,1,2017,60,2,Rusak
+CAMERA,DAHUA,China,3,2018,80,2,Perbaikan
+CAMERA,DAHUA,China,2,2017,60,2,Rusak
+CAMERA,Vivotek,China,2,2018,80,2,Perbaikan
+CAMERA,Vivotek,China,2,2018,80,2,Perbaikan
+CAMERA,Vivotek,China,3,2018,80,2,Perbaikan
+CAMERA,Vivotek,China,2,2018,80,2,Perbaikan
+CAMERA,Vivotek,China,4,2019,100,2,Normal
+CAMERA,Vivotek,China,4,2019,100,2,Normal
+CAMERA,Vivotek,China,4,2019,100,2,Normal
+CAMERA,Vivotek,China,1,2016,40,2,Rusak
+CAMERA,Vivotek,China,3,2015,20,2,Rusak
+CAMERA,Vivotek,China,3,2018,80,2,Perbaikan
+CAMERA,Vivotek,China,1,2014,0,2,Rusak
+CAMERA,Vivotek,China,2,2018,80,2,Perbaikan
+CAMERA,Vivotek,China,2,2018,80,2,Perbaikan
+CAMERA,Vivotek,China,2,2018,80,2,Perbaikan
+CAMERA,Vivotek,China,4,2019,100,2,Normal
+CAMERA,Vivotek,China,3,2018,80,2,Perbaikan
+CAMERA,Vivotek,China,4,2019,100,2,Normal
+CAMERA,Vivotek,China,4,2019,100,2,Normal
+CAMERA,Vivotek,China,4,2019,100,2,Normal
+CAMERA,Vivotek,China,4,2019,100,2,Normal
+CAMERA,Vivotek,China,3,2019,100,2,Normal
+CAMERA,Vivotek,China,2,2019,100,2,Normal
+CAMERA,Vivotek,China,2,2019,100,2,Normal
+CAMERA,Vivotek,China,1,2019,100,2,Normal
+CAMERA,Vivotek,China,4,2019,100,2,Normal
+CAMERA,Vivotek,China,2,2019,100,2,Normal
+CAMERA,Vivotek,China,3,2019,100,2,Normal
+CAMERA,Vivotek,China,3,2019,100,2,Normal
+CAMERA,Vivotek,China,1,2019,100,2,Normal
+CAMERA,Vivotek,China,1,2019,100,2,Normal
+CAMERA,Vivotek,China,2,2019,100,2,Normal
+CAMERA,Vivotek,China,2,2018,80,2,Perbaikan
+CAMERA,Vivotek,China,4,2019,100,2,Normal
+CAMERA,Vivotek,China,3,2019,100,2,Normal
+CAMERA,Vivotek,China,2,2019,100,2,Normal
+CAMERA,Vivotek,China,1,2018,80,2,Perbaikan
+CAMERA,Vivotek,China,1,2018,80,2,Perbaikan
+CAMERA,Vivotek,China,4,2019,100,2,Normal
+CAMERA,Vivotek,China,4,2019,100,2,Normal
+CAMERA,Vivotek,China,1,2016,40,2,Rusak
+CAMERA,huawei,China,1,2015,20,2,Rusak
+CAMERA,huawei,China,2,2016,40,2,Rusak
+CAMERA,huawei,China,2,2017,60,2,Rusak
+Display,Raspberry/LG,UK/Korsel,2,2016,40,2,Rusak
+Display,Intel NUC/LG,UK/Korsel,4,2019,100,2,Normal
+Display,Raspberry/LG,UK/Korsel,2,2016,40,2,Rusak
+Display,Raspberry/LG,UK/Korsel,1,2016,40,2,Rusak
+Display,Raspberry/LG,UK/Korsel,2,2016,40,2,Rusak
+Display,Intel NUC/LG,UK/Korsel,4,2019,100,2,Normal
+Display,Raspberry/LG,UK/Korsel,4,2019,100,2,Normal
+Display,Raspberry/LG,UK/Korsel,1,2016,40,2,Rusak
+Display,Raspberry/LG,UK/Korsel,1,2015,20,2,Rusak
+Display,Raspberry/LG,UK/Korsel,4,2019,100,2,Normal
+Display,Raspberry/LG,UK/Korsel,3,2014,0,2,Rusak
+Display,Raspberry/LG,UK/Korsel,2,2017,60,2,Rusak
+Display,Raspberry/LG,UK/Korsel,3,2017,60,2,Rusak
+Display,Raspberry/LG,UK/Korsel,1,2017,60,2,Rusak
+Display,Raspberry/LG,UK/Korsel,3,2017,60,2,Rusak
+Display,Intel NUC/LG,UK/Korsel,3,2018,80,2,Perbaikan
+Display,Raspberry/LG,UK/Korsel,1,2015,20,2,Rusak
+Display,Raspberry/LG,UK/Korsel,3,2016,40,2,Rusak
+Display,Raspberry/LG,UK/Korsel,2,2017,60,2,Rusak
+Display,Raspberry/LG,UK/Korsel,1,2016,40,2,Rusak
+Display,Raspberry/LG,UK/Korsel,2,2016,40,2,Rusak
+Display,Raspberry/LG,UK/Korsel,4,2019,100,2,Normal
+Display,Raspberry/LG,UK/Korsel,4,2019,100,2,Normal
+Display,Raspberry/LG,UK/Korsel,3,2016,40,2,Rusak
+Display,Raspberry/LG,UK/Korsel,4,2019,100,2,Normal
+Display,Raspberry/LG,UK/Korsel,4,2019,100,2,Normal
+Public Address System (PAS),TOA,Jepang,1,2016,80,2,Perbaikan
+Public Address System (PAS),TOA,Jepang,2,2016,80,2,Perbaikan
+Public Address System (PAS),TOA,Jepang,4,2017,87,2,Normal
+Public Address System (PAS),TOA,Jepang,4,2017,87,2,Normal
+Public Address System (PAS),TOA,Jepang,4,2017,87,2,Normal
+Public Address System (PAS),TOA,Jepang,2,2016,80,2,Perbaikan
+Public Address System (PAS),TOA,Jepang,1,2016,80,2,Perbaikan
+Public Address System (PAS),TOA,Jepang,3,2016,80,2,Perbaikan
+Public Address System (PAS),TOA,Jepang,3,2016,80,2,Perbaikan
+Public Address System (PAS),TOA,Jepang,1,2014,67,2,Perbaikan
+Public Address System (PAS),TOA,Jepang,2,2017,87,2,Normal
+Public Address System (PAS),TOA,Jepang,1,2014,0,2,Rusak
+Public Address System (PAS),TOA,Jepang,2,2016,40,2,Rusak
+Public Address System (PAS),TOA,Indonesia,4,2019,100,2,Normal
+Public Address System (PAS),TOA,Indonesia,1,2016,40,2,Rusak
+Public Address System (PAS),TOA,Indonesia,2,2016,40,2,Rusak
+Public Address System (PAS),TOA,Jepang,1,2014,67,2,Perbaikan
+Public Address System (PAS),TOA,Jepang,3,2016,80,2,Perbaikan
+Public Address System (PAS),TOA,Jepang,3,2017,87,2,Normal
+Public Address System (PAS),TOA,Jepang,4,2017,87,2,Normal
+Public Address System (PAS),TOA,Jepang,3,2017,87,2,Normal
+Public Address System (PAS),TOA,Indonesia,2,2017,60,2,Rusak
+Public Address System (PAS),TOA,Indonesia,1,2016,40,2,Rusak
+Public Address System (PAS),TOA,Indonesia,4,2019,100,2,Normal
+Public Address System (PAS),TOA,Indonesia,4,2019,100,2,Normal
+Public Address System (PAS),TOA,Indonesia,1,2016,40,2,Rusak
+Public Address System (PAS),TOA,Indonesia,2,2016,80,2,Perbaikan
+Public Address System (PAS),TOA,Jepang,3,2016,80,2,Perbaikan
+Public Address System (PAS),TOA,Jepang,2,2016,80,2,Perbaikan
+Public Address System (PAS),TOA,Jepang,1,2016,80,2,Perbaikan
+Public Address System (PAS),TOA,Jepang,2,2016,80,2,Perbaikan
+Public Address System (PAS),TOA,Jepang,2,2016,80,2,Perbaikan
+Public Address System (PAS),TOA,Jepang,2,2016,80,2,Perbaikan
+Access Control,Honeywell,,2,2016,70,2,Perbaikan
+Master clock,Mobatime,Switzerland,4,2019,100,2,Normal
+Master clock,Mobatime,Switzerland,4,2018,90,2,Normal
+Master clock,Mobatime,Switzerland,2,2016,70,2,Perbaikan
+Master clock,Mobatime,Switzerland,2,2016,70,2,Perbaikan
+Master clock,Mobatime,Switzerland,1,2016,70,2,Perbaikan
+Master clock,Mobatime,Switzerland,4,2018,90,2,Normal
+Master clock,Mobatime,Switzerland,3,2016,70,2,Perbaikan
+Master clock,Mobatime,Switzerland,2,2018,90,2,Normal
+Master clock,Mobatime,Switzerland,1,2018,90,2,Normal
+Master clock,Mobatime,Switzerland,3,2016,70,2,Perbaikan
+Master clock,Mobatime,Switzerland,2,2016,70,2,Perbaikan
+Master clock,Mobatime,Switzerland,3,2018,90,2,Normal
+PABX,Alcatel Lucent,China,4,2016,100,2,Normal
+PABX,Alcatel Lucent,China,4,2016,100,2,Normal
+PABX,Alcatel Lucent,China,4,2016,100,2,Normal
+PABX,Alcatel Lucent,China,4,2016,100,2,Normal
+PABX,Alcatel Lucent,China,4,2016,100,2,Normal
+PABX,Alcatel Lucent,China,3,2012,80,2,Normal
+PABX,Alcatel Lucent,China,2,2016,100,2,Normal
+PABX,Alcatel Lucent,China,1,2016,100,2,Normal
+PABX,Alcatel Lucent,China,1,2012,80,2,Normal
+PABX,Alcatel Lucent,China,2,2016,100,2,Normal
+PABX,Alcatel Lucent,China,3,2016,100,2,Normal
+PABX,Alcatel Lucent,China,2,2014,90,2,Normal
+PABX,Alcatel Lucent,China,3,2016,100,2,Normal
+PABX,Alcatel Lucent,China,2,2015,95,2,Normal
+PABX,Alcatel Lucent,China,4,2016,100,2,Normal
+PABX,Alcatel Lucent,China,2,2011,75,2,Perbaikan
+PABX,Alcatel Lucent,China,3,2016,100,2,Normal
+PABX,Alcatel Lucent,China,3,2016,100,2,Normal
+PABX,Alcatel Lucent,China,2,2016,100,2,Normal
+PABX,Alcatel Lucent,China,3,2013,85,2,Normal
+PABX,Alcatel Lucent,China,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
+Fire Alarm System,Notifier,USA,4,2016,100,2,Normal
